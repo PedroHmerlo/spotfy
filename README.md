@@ -1,4 +1,4 @@
-README - Site Spotify Clone
+README - Site Spotify 
 
 Descrição
 
@@ -52,5 +52,5 @@ Substituir links fictícios por links reais.
 
 Autor
 
-Desenvolvido por [Seu Nome] para fins de estudo.
+Desenvolvido por Pedro Henrique para fins de estudo.
 
