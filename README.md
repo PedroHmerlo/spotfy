@@ -32,7 +32,7 @@ Recursos: Explicação sobre como buscar, navegar e descobrir músicas na plataf
 
 Rodapé: Links institucionais e ícones de redes sociais.
 
-Seção Flamengo: Uma homenagem ao Flamengo, com imagens e letras do hino.
+Seção Flamengo: Uma homenagem ao Flamengo, com imagens e letras do hino.(Fiz na brincadeira)
 
 Como Executar o Projeto
 
